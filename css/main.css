@@ -594,7 +594,7 @@ body {
 .social-container {
 	position: absolute;
 	bottom: 56px;
-	right: 50px;
+	right: 30px;
 	z-index: 50;
 }
 .social {
