@@ -51,7 +51,7 @@ body {
     line-height: 120px;
     color: rgba(255,255,255,0.8);
 }
-.cb-slideshow li:nth-child(1) span { background-image: url(../img/bg/a0.jpg) }
+/*.cb-slideshow li:nth-child(1) span { background-image: url(../img/bg/a0.jpg) }*/
 .cb-slideshow li:nth-child(2) span {
     background-image: url(../img/bg/a1.jpg);
     -webkit-animation-delay: 6s;
